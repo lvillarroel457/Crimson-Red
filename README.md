@@ -14,6 +14,9 @@ En este notebook se entrenó el modelo en google collab.
 # Play
 En este notebook se puede probar el modelo, jugando partidas con el o haciéndolo jugar contra StockFish. 
 
+# Crimson_Red_v10_50e
+Este es el modelo entrenado, el cual está en formato .h5 y .keras
+
 Mas archivos:
 
 # StockFish
