@@ -7,6 +7,8 @@ Los archivos principales del proyecto son:
 
 # Dataset
 En este notebook se creó el dataset de entrenamiento, el cual se encuentra comprimido en el archivo Dataset_Entrenamiento.rar
+El dataset de entrenamiento consiste en aproximadamente 400000 posiciones de 5000 partidas descargadas de https://lichess.org/ con evaluaciones de StockFish como etiquetas.
+A algunas posiciones se les agrearon jugadas aleatorias para diversificar el dataset.
 
 # Entrenamiento_Modelo_colab
 En este notebook se entrenó el modelo en google collab.
@@ -15,7 +17,7 @@ En este notebook se entrenó el modelo en google collab.
 En este notebook se puede probar el modelo, jugando partidas con el o haciéndolo jugar contra StockFish. 
 
 # Crimson_Red_v10_50e
-Este es el modelo entrenado, el cual está en formato .h5 y .keras
+Este es el modelo entrenado por 50 épocas con el dataset, el cual está en formato .h5 y .keras
 
 Mas archivos:
 
