@@ -29,12 +29,12 @@ En este archivo está StockFish, descargado de https://stockfishchess.org/
 En este archivo hay varias partidas del Crimson Red contra StockFish de 1320 de elo en formato pgn.
 
 # CrimsonRed_VS_StockFish
-Esta es una partida de Crimson Red contra StockFish de 1320 de elo en formato gif.
+Esta es una partida de Crimson Red (Blancas) contra StockFish de 1320 de elo (Negras) en formato gif.
 
 ![](https://github.com/lvillarroel457/Crimson-Red/blob/main/CrimsonRed_VS_StockFish.gif)
 
 # RedSinEntrenar_VS_StockFish
-Esta es una partida de una red con la misma arquitercura que Crimson Red, pero sin entrenamiento, contra StockFish de 1320 de elo en formato gif.
+Esta es una partida de una red con la misma arquitercura que Crimson Red, pero sin entrenamiento (Blancas), contra StockFish de 1320 de elo (Negras) en formato gif.
 
 ![](https://github.com/lvillarroel457/Crimson-Red/blob/main/RedSinEntrenar_VS_StockFish.gif)
 
