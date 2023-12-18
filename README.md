@@ -27,9 +27,11 @@ En este archivo hay varias partidas del Crimson Red contra StockFish de 1320 de 
 
 # CrimsonRed_VS_StockFish
 Esta es una partida de Crimson Red contra StockFish de 1320 de elo en formato gif.
+
 ![](https://github.com/lvillarroel457/Crimson-Red/blob/main/CrimsonRed_VS_StockFish.gif)
 
 # RedSinEntrenar_VS_StockFish
 Esta es una partida de una red con la misma arquitercura que Crimson Red, pero sin entrenamiento, contra StockFish de 1320 de elo en formato gif.
+
 ![](https://github.com/lvillarroel457/Crimson-Red/blob/main/RedSinEntrenar_VS_StockFish.gif)
 
