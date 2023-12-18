@@ -12,7 +12,7 @@ En este notebook se creó el dataset de entrenamiento, el cual se encuentra comp
 En este notebook se entrenó el modelo en google collab.
 
 # Play
-En este notebook se puede probar el modelo, jugando partidas con el o haciéndolo jugar contra stockfish. 
+En este notebook se puede probar el modelo, jugando partidas con el o haciéndolo jugar contra StockFish. 
 
 Mas archivos:
 
