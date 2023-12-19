@@ -39,5 +39,5 @@ Esta es una partida de una red con la misma arquitercura que Crimson Red, pero s
 ![](https://github.com/lvillarroel457/Crimson-Red/blob/main/RedSinEntrenar_VS_StockFish.gif)
 
 # Referencias
-Neural Networks for Chess y Giraffe Using Deep Reinforcement Learning to Play Chess son las principales referencias del proyecto, las cuales están en formato pdf en el repositorio.
+Neural Networks for Chess y Giraffe Using Deep Reinforcement Learning to Play Chess son las principales referencias del proyecto, las cuales están en formato pdf en la carpeta referencias del repositorio.
 
